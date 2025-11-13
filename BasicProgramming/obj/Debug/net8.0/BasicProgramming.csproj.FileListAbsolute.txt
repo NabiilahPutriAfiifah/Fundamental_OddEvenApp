@@ -1,0 +1,14 @@
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.exe
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.deps.json
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.runtimeconfig.json
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.dll
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.pdb
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.AssemblyInfoInputs.cache
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.AssemblyInfo.cs
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.csproj.CoreCompileInputs.cache
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.dll
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\refint\BasicProgramming.dll
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.pdb
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.genruntimeconfig.cache
+d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\ref\BasicProgramming.dll

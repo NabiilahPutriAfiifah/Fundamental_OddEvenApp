@@ -1,0 +1,14 @@
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\bin\Debug\net8.0\OddEventApp.exe
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\bin\Debug\net8.0\OddEventApp.deps.json
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\bin\Debug\net8.0\OddEventApp.runtimeconfig.json
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\bin\Debug\net8.0\OddEventApp.dll
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\bin\Debug\net8.0\OddEventApp.pdb
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.AssemblyInfoInputs.cache
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.AssemblyInfo.cs
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.csproj.CoreCompileInputs.cache
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.dll
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\refint\OddEventApp.dll
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.pdb
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.genruntimeconfig.cache
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\ref\OddEventApp.dll

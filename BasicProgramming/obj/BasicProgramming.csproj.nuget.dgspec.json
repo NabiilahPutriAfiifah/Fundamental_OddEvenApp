@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {}
+    "D:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {}
   },
   "projects": {
-    "d:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {
+    "D:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
+        "projectUniqueName": "D:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
         "projectName": "BasicProgramming",
-        "projectPath": "d:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
+        "projectPath": "D:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
         "packagesPath": "C:\\Users\\nabii\\.nuget\\packages\\",
-        "outputPath": "d:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\obj\\",
+        "outputPath": "D:\\Dokumen\\Magang Kemnaker\\Fundamental\\BasicProgramming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nabii\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,3 +12,4 @@ d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\refint\OddEv
 d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.pdb
 d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.genruntimeconfig.cache
 d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\ref\OddEventApp.dll
+d:\Dokumen\Magang Kemnaker\Fundamental\OddEventApp\obj\Debug\net8.0\OddEventApp.sourcelink.json

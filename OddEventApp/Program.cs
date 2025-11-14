@@ -27,64 +27,64 @@ class Program
      * @PARAM Limit: Batas akhir. minimal 1, tidak boleh O atau negatif.
      * @PARAM choice: Pilihan, hanya boleh "Even" atau "Odd". Selain itu invalid
      */
+
+    static bool IsNotBelowThanOne(int limit)
+    {
+        return limit < 1;
+    }
+
+    static bool IsChoiceNotEvenOrOdd(string choice)
+    {
+        return choice != "Genap" && choice != "Ganjil";
+    }
+
+
     static void PrintEvenOdd(int limit, string choice)
     {
-        if (limit >= 1) {
-            if (choice == "Ganjil")
-            {
-                Console.Write($"Pilih Ganjil/Genap 1 - {limit}: ");
-                for (int i = 1; i <= limit; i++)
-                {
-                    if (i % 2 == 1)
-                    {
-                        if (i == limit || i == limit - i)
-                        {
-                            Console.Write(i);
-                        }
-                        else
-                        {
-                            Console.Write(i + ",");
-                        }
-                    }
-                }
-                Console.WriteLine();
-                Console.WriteLine("===================================");
-            }
-            else if (choice == "Genap")
-            {
-                Console.Write($"Pilih Ganjil/Genap 1 - {limit} : ");
-                for (int i = 1; i <= limit; i++)
-                {
-                    if (i % 2 == 0)
-                    {
-                        if (i == limit || i == limit - i)
-                        {
-                            Console.Write(i);
-                        }
-                        else
-                        {
-                            Console.Write(i + ",");
-                        }
-                    }
-
-                }
-                Console.WriteLine();
-                Console.WriteLine("===================================");
-            }
-            else
-            {
-                Console.WriteLine("Input Pilihan Tidak Valid");
-                Console.WriteLine("===================================");
-            }
-
-        }
-        else 
+        if (IsNotBelowThanOne(limit))
         {
             Console.WriteLine("Input Limit Tidak Valid");
             Console.WriteLine("===================================");
         }
+
+        if (IsChoiceNotEvenOrOdd(choice))
+        {
+            Console.WriteLine("Input Pilihan Tidak Valid");
+            Console.WriteLine("===================================");
+            return;
+        }
+
+
+
+        int modularResult = 1;
+        if (choice == "Genap")
+        {
+            modularResult = 0;
+        }
+
+        Console.Write($"Print Bilangan 1 - {limit}: ");
+        for (int i = 1; i <= limit; i++)
+        {
+            if (i % 2 != modularResult)
+            {
+                continue;
+            }
+
+            if (i == limit || i == limit - 1)
+            {
+                Console.Write(i);
+            }
+            else
+            {
+                Console.Write(i + ",");
+            }
+        }
+
+        Console.WriteLine();
+        Console.WriteLine("===================================");
     }
-            
+
+
 
     /*
      * ex: EvenOddCheck(5);
@@ -110,54 +110,47 @@ class Program
 
     }
 
-    static void Main(string[] args)
+    static void Main()
     {
         int pilihan;
         int angka;
         int limit;
         string choice;
 
-        do
+        while (true)
         {
             Menu();
             Console.WriteLine("Pilihan : ");
             pilihan = Convert.ToInt32(Console.ReadLine());
 
-            switch (pilihan)
+            try
             {
-                case 1:
-                    try
-                    {
+                switch (pilihan)
+                {
+                    case 1:
                         Console.Write("Masukkan angka: ");
                         angka = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine(CheckEvenOrOdd(angka));
-                    }
-                    catch (FormatException) {
-                        Console.WriteLine("INVALID!!");
-                    }
-                    break;
-                case 2:
-                    try {
+
+                        break;
+                    case 2:
                         Console.Write("Pilih Ganjil/Genap: ");
-                        choice = Console.ReadLine();
+                        choice = Console.ReadLine() ?? "";
                         Console.Write("Masukkan limit: ");
                         limit = Convert.ToInt32(Console.ReadLine());
                         PrintEvenOdd(limit, choice);
-                    }
-                    catch 
-                        (FormatException) {
-                        Console.WriteLine("INVALID!!");
-                    }
-                    break;
-                case 3:
-                    break;
-                default:
-                    Console.WriteLine("Invalid");
-                    break;
+                        break;
+                    case 3:
+                        return;
+                    default:
+                        Console.WriteLine("Invalid");
+                        break;
+                }
             }
-
-        } while (pilihan != 3);
-
-
+            catch
+            {
+                Console.WriteLine("INVALID!!");
+            }
+        }
     }
 }

@@ -12,3 +12,4 @@ d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\refint\
 d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.pdb
 d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.genruntimeconfig.cache
 d:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\ref\BasicProgramming.dll
+D:\Dokumen\Magang Kemnaker\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.sourcelink.json

@@ -1,0 +1,15 @@
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\bin\Debug\net8.0\VendingMachineApp.exe
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\bin\Debug\net8.0\VendingMachineApp.deps.json
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\bin\Debug\net8.0\VendingMachineApp.runtimeconfig.json
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\bin\Debug\net8.0\VendingMachineApp.dll
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\bin\Debug\net8.0\VendingMachineApp.pdb
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.AssemblyInfoInputs.cache
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.AssemblyInfo.cs
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.csproj.CoreCompileInputs.cache
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.sourcelink.json
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.dll
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\refint\VendingMachineApp.dll
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.pdb
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\VendingMachineApp.genruntimeconfig.cache
+D:\Dokumen\Magang Kemnaker\Fundamental\VendingMachineApp\obj\Debug\net8.0\ref\VendingMachineApp.dll
